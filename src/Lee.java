@@ -9,7 +9,7 @@ public class Lee {
         /* 宣告 */
         Lee pm = new Lee();
         BufferedImage bi;
-        String path = "Peppers.png";
+        String path = "images/Peppers.png";
         String stegofilename = "stegotiffany.bmp";
         String recoverfilename = "recover.bmp";
         try {

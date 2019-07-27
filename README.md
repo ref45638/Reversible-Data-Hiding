@@ -1,4 +1,4 @@
-# Reversible Data Hiding Based on Multi-Dimension Difference-Histogram and Bilinear Interpolation
+# Reversible Data Hiding
 
 ### Original method 
 *A Novel Reversible Data Hiding Scheme Based on Two-Dimensional Difference-Histogram Modification*
